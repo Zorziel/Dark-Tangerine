@@ -13,6 +13,7 @@ A dark black and gray theme with orange accents.
 ## Description
 Should be easier on the eyes than some of the other dark themes..
 
+<b>UPDATE - 2021-07-05 - Version 1.1: </b>Tweaked tab_line color. This time it actually does highlight the current tab better than before.
 
 
 ## Installing
